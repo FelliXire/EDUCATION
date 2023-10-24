@@ -1,0 +1,66 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #8B4513;
+}
+
+img {
+    width: 30px;
+    margin-right: 10px;
+    
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    justify-content: center;
+    align-items: center;
+}
+
+.ohrannik {
+    text-align: left;
+    float: left;
+    margin-right: 20px;
+}
+
+.ohrannik img {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+.location {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #8B4513;
+    float: center;
+    font-size: 50px;
+}
+
+.adress {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    float: center;
+    font-size:25px;
+}
+
+.divider {
+    border: 10px solid #333;
+    width: 40%;
+    margin: 20px auto;
+}
+
+.podadress {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    float: center;
+    font-size:25px;
+}
